@@ -1,11 +1,9 @@
 Knumcap
 ===================
 
-
 The simple application that displays notify messages in Linux when caps lock or num lock keys are pressed.
 
 ----------
-
 
 Story
 -------------
