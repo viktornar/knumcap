@@ -15,7 +15,7 @@ I have Lenovo laptop that doesn't have leds that could notify me about caps lock
 I have used Eclipse CDT IDE. In repository I put Eclipse project so import it to this IDE and press build button in IDE. You are ready to hack now. Before importing project you must to install libx11-dev on your Linux box:
 
 ```bash
-$ sudo apt-get install libx11-dev 
+$ sudo apt-get install libx11-dev libnotify-dev libxtst-dev
 ```
 
 After requirement dependency are installed just build project and run program:
